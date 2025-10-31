@@ -16,9 +16,9 @@ The system includes:
 ---
 
 ## 🧑‍🤝‍🧑 Team Members  
-Suhana
-Sunil 
-Suraj Shukla
+1)Suhana
+2)Sunil 
+3)Suraj Shukla
 
 ---
 
