@@ -28,7 +28,7 @@ app.use((req, res, next) => {
 
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/contacts', require('./routes/contacts'));
-app.use('/api/alerts', require('./routes/alerts'));
+app.use('/api/alerts', require('./routes/Alerts'));
 
 // Test route
 app.get('/', (req, res) => res.json({ status: 'ok', time: new Date().toISOString() }));
