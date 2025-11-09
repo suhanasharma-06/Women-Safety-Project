@@ -1,0 +1,23 @@
+# Flutter
+women safety frontend/build/
+women safety frontend/.dart_tool/
+women safety frontend/.idea/
+women safety frontend/.flutter-plugins
+women safety frontend/.flutter-plugins-dependencies
+women safety frontend/.packages
+women safety frontend/pubspec.lock
+
+# Android
+*.apk
+*.aar
+*.iml
+.gradle/
+local.properties
+
+# iOS
+Pods/
+DerivedData/
+
+# Node.js
+WomenSafety_Backend/node_modules/
+WomenSafety_Backend/.env
