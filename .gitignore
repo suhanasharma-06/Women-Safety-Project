@@ -1,4 +1,8 @@
-# Flutter
+# -----------------------------
+# 🌸 Women Safety Full Project
+# -----------------------------
+
+# ==== Flutter / Frontend ====
 women safety frontend/build/
 women safety frontend/.dart_tool/
 women safety frontend/.idea/
@@ -7,17 +11,18 @@ women safety frontend/.flutter-plugins-dependencies
 women safety frontend/.packages
 women safety frontend/pubspec.lock
 
-# Android
+# Flutter OS builds
 *.apk
-*.aar
+*.aab
+*.ipa
 *.iml
-.gradle/
-local.properties
 
-# iOS
-Pods/
-DerivedData/
-
-# Node.js
+# ==== Node.js / Backend ====
 WomenSafety_Backend/node_modules/
 WomenSafety_Backend/.env
+WomenSafety_Backend/package-lock.json
+
+# ==== General OS Files ====
+.DS_Store
+Thumbs.db
+*.log
